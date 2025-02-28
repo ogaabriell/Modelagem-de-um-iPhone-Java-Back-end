@@ -1,0 +1,7 @@
+@startuml
+class MusicPlayer {
+    + tocar()
+    + pausar()
+    + selecionarMusica(musica: String)
+}
+@enduml

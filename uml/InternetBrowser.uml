@@ -1,0 +1,7 @@
+@startuml
+class InternetBrowser {
+    +exibirPagina(String url)
+    +adicionarNovaAba()
+    +atualizarPagina()
+}
+@enduml

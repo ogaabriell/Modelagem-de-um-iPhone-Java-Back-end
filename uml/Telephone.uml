@@ -1,0 +1,7 @@
+@startuml
+class Telephone {
+    + ligar(String numero)
+    + atender()
+    + iniciarCorreioVoz()
+}
+@enduml
